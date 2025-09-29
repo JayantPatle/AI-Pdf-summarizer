@@ -1,0 +1,5 @@
+![App Screenshot](Screenshots/general_knowledge_chatbot.png)
+![App Screenshot](Screenshots/pdf_upload.png)
+![App Screenshot](Screenshots/qna_interface.png)
+![App Screenshot](Screenshots/response_example.png)
+![App Screenshot](Screenshots/summary_view.png)
